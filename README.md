@@ -1,2 +1,2 @@
-# RestaurantsApp
+# Projects
 fully responsive Restaurant app
